@@ -1,7 +1,7 @@
 package altfunction;
 
 @FunctionalInterface
-public interface E {
+public interface Runner {
 	public void run();
 }
 
